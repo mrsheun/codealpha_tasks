@@ -1,0 +1,7 @@
+# requirements.txt (Create this file in the same directory)
+Flask
+pandas
+scikit-learn
+joblib
+numpy
+gunicorn
